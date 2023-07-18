@@ -1,2 +1,1 @@
-- openmp-examples
-- Reference: Paralel Programlama - Dr.Bashar Alhaj Ahmad
+
